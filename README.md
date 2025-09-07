@@ -1,0 +1,15 @@
+- **Car movement**: Move the car left ('A') or right ('D') across three lanes.
+- **Speed boost**: Press 'W' to temporarily increase speed (10 boosts available).
+- **Obstacles**: Randomly generated barricades appear in lanes to avoid.
+- **Cheat mode**: Press 'M' to enable auto-avoidance of obstacles.
+- **Camera modes**: Toggle between first-person and third-person views with 'V'.
+- **Sky color change**: Press 'C' to randomly select sky color (day, sunrise, sunset).
+- **Pause/resume**: Press 'P' to pause or resume the game.
+- **Game start**: Press 'S' to start the game.
+- **Restart**: Press 'R' to restart after game over.
+- **Score system**: Score increases based on time survived.
+- **Road boundaries**: Game ends if the car moves off the road (x < -3 or x > 3).
+- **Collision detection**: Game ends if the car hits an obstacle (unless in cheat mode).
+- **3D environment**: Includes road, grass, rails, and trees for immersive visuals.
+- **Dynamic obstacles**: 1–2 obstacles spawn every 1–3 seconds, 50 units ahead.
+- **Tree generation**: Randomly placed trees along the road for scenery.
